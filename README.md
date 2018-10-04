@@ -1,1 +1,1 @@
-This is a basic starter kit built with Gulp 4, Gulp Plugins, and ES6 Script. I've updated the starter kit because Gulp 3.9 had too many vulnerabilities and Gulp 4 did not. 
+This is a basic starter-kit built with Gulp 4.0 and uses ES6.  I rebuilt this since Gulp 3.9 was having some major vulnerabilities. I've included minification to the HTML, CSS, Images, and JavaScript for faster load times.
