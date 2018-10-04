@@ -1,0 +1,1 @@
+This is a basic starter kit built with Gulp 4, Gulp Plugins, and ES6 Script. I've updated the starter kit because Gulp 3.9 had too many vulnerabilities and Gulp 4 did not. 
